@@ -1,0 +1,31 @@
+Customer: Nasim (Priority: 23)
+Items in the cart:
+fexo (Quantity: 1)
+fenadin (Quantity: 5)
+
+Customer: Abrar (Priority: 25)
+Items in the cart:
+fexo (Quantity: 1)
+fenadin (Quantity: 25)
+
+Customer: Mahdi (Priority: 45)
+Items in the cart:
+fenadin (Quantity: 22)
+
+Customer: Tasfiq (Priority: 0)
+Items in the cart:
+ace (Quantity: 7)
+
+Customer: Nas (Priority: 0)
+Items in the cart:
+ace (Quantity: 9)
+
+Customer: Shabbir (Priority: 10)
+Items in the cart:
+fexo (Quantity: 10)
+fenadin (Quantity: 10)
+
+Customer: N.Ahmed (Priority: 1)
+Items in the cart:
+fexo (Quantity: 1)
+

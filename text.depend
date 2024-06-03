@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1717409866 source:c:\users\mahdi\onedrive\desktop\cse225 lab\text\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"StackType.cpp"
+	"quetype.cpp"
+	"BST.cpp"
+	"storeType.h"
+	<queue>
+	<tuple>
+	<cstdlib>
+	<windows.h>
+
+1717064081 source:c:\users\mahdi\onedrive\desktop\cse225 lab\text\stacktype.cpp
+	"StackType.h"
+
+1717064081 c:\users\mahdi\onedrive\desktop\cse225 lab\text\stacktype.h
+
+1717064081 c:\users\mahdi\onedrive\desktop\cse225 lab\text\stacktype.cpp
+	"StackType.h"
+
+1717092906 source:c:\users\mahdi\onedrive\desktop\cse225 lab\text\quetype.cpp
+	"quetype.h"
+
+1717092906 c:\users\mahdi\onedrive\desktop\cse225 lab\text\quetype.h
+
+1717092906 c:\users\mahdi\onedrive\desktop\cse225 lab\text\quetype.cpp
+	"quetype.h"
+
+1717169226 source:c:\users\mahdi\onedrive\desktop\cse225 lab\text\bst.cpp
+	"BST.h"
+	<limits>
+	<iomanip>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1717099719 c:\users\mahdi\onedrive\desktop\cse225 lab\text\bst.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1717169226 c:\users\mahdi\onedrive\desktop\cse225 lab\text\bst.cpp
+	"BST.h"
+	<limits>
+	<iomanip>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1717099719 c:\users\mahdi\onedrive\desktop\cse225 lab\text\storetype.h
+	<string>
+
+1717169107 source:c:\users\mahdi\onedrive\desktop\cse225 lab\text\storetype.cpp
+	"storeType.h"
+
+1717429743 source:c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\bst.cpp
+	"BST.h"
+	<limits>
+	<iomanip>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1717429781 c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\bst.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1717409866 source:c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"StackType.cpp"
+	"quetype.cpp"
+	"BST.cpp"
+	"storeType.h"
+	<queue>
+	<tuple>
+	<cstdlib>
+	<windows.h>
+
+1717064081 c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\stacktype.cpp
+	"StackType.h"
+
+1717064081 c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\stacktype.h
+
+1717092906 c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\quetype.cpp
+	"quetype.h"
+
+1717092906 c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\quetype.h
+
+1717169226 c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\bst.cpp
+	"BST.h"
+	<limits>
+	<iomanip>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1717099719 c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\storetype.h
+	<string>
+
+1717092906 source:c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\quetype.cpp
+	"quetype.h"
+
+1717064081 source:c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\stacktype.cpp
+	"StackType.h"
+
+1717169107 source:c:\users\mahdi\onedrive\desktop\cse225 lab\medicine store management\storetype.cpp
+	"storeType.h"
+
